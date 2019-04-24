@@ -1,0 +1,4 @@
+ALTER TABLE account
+DROP creation_time,
+DROP creation_date,
+ADD creation_timestamp TIMESTAMP
