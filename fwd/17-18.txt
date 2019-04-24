@@ -1,2 +1,0 @@
-ALTER TABLE account
-ADD country VARCHAR(100)

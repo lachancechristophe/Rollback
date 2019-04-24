@@ -1,2 +1,0 @@
-ALTER TABLE account
-ALTER COLUMN email_address TYPE VARCHAR(100);

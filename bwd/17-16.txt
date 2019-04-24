@@ -1,4 +1,0 @@
-ALTER TABLE account
-DROP creation_timestamp,
-ADD creation_time TIME,
-ADD creation_date

@@ -1,2 +1,0 @@
-ALTER TABLE account
-RENAME COLUMN is_confirmed TO confirmed

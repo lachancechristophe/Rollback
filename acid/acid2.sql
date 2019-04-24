@@ -18,6 +18,14 @@ VALUES (
     1,
     current_timestamp,
     'Canada'
+),(
+    'EricLavoie',
+    True,
+    'eric@lavoie.ca',
+    True,
+    1,
+    current_timestamp,
+    'Canada'
 );
 SAVEPOINT user_created;
 
@@ -29,6 +37,12 @@ allow_write,
 allow_del
 )
 VALUES (
+    1,
+    3,
+    True,
+    True,
+    True
+),(
     1,
     3,
     True,
